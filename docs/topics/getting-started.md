@@ -31,7 +31,7 @@ Here is how you can take the first steps in developing Kotlin server-side applic
       <th>Ktor</th>
    </tr>
    <tr>
-   <td width="50%">
+   <td width="100%">
      A mature family of frameworks with an established ecosystem that is used by millions of developers worldwide.
    <br/>
    <list>
@@ -40,7 +40,7 @@ Here is how you can take the first steps in developing Kotlin server-side applic
       <li><a href="https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/">Use Spring Boot with Kotlin and RSocket</a>.</li>
    </list>
    </td>
-   <td width="50%">
+   <td width="100%">
       A lightweight framework for those who value freedom in making architectural decisions.
    <list>
       <li><a href="https://ktor.io/docs/creating-http-apis.html">Create HTTP APIs with Ktor</a>.</li>
